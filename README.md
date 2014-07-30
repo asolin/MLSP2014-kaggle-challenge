@@ -1,4 +1,4 @@
-MLSP 2014 Schizophrenia Classification Challenge: Winning Model Documentation
+MLSP 2014 Schizophrenia Classification Challenge: Winning Model
 ==
 
 [Arno Solin](http://becs.aalto.fi/~asolin/) (Doctoral student at Aalto University, instructor Dr. [Simo Särkkä](http://www.lce.hut.fi/~ssarkka/))

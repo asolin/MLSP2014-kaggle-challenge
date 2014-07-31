@@ -8,7 +8,7 @@ Summary
 --
 The goal of the [competition](http://www.kaggle.com/c/mlsp-2014-mri) was to automatically diagnose subjects with schizophrenia based on multimodal features derived from their magnetic resonance imaging (MRI) brain scans. The winning proposition was based on a Gaussian process (GP) classifier, where the observations are considered to be drawn from a Bernoulli distribution. The probability is related to the latent function via a sigmoid function that transforms it to a unit interval. A GP prior with a covariance function as a sum of a constant, linear, and Matérn kernel was placed over the latent functions. The model was trained by sampling using the [GPstuff toolbox](http://becs.aalto.fi/en/research/bayes/gpstuff/).
 
-For more details, see the [model documentation report](http://becs.aalto.fi/~asolin/).
+For more details, see the [model documentation report](http://becs.aalto.fi/~asolin/documents/pdf/Solin-kaggle-2014.pdf).
 
 
 Dependencies
